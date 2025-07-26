@@ -1,3 +1,4 @@
+#!bin/bash
 mkdir "Arena"
 
 files=("warrior.txt" "mage.txt" "archer.txt")
